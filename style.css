@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(97, 96, 96);
+}
+
+.container {
+    background: rgb(197, 185, 185);
+    max-width: 800px; 
+    margin: 20px auto;
+}
+
+.img {
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+    float: left;
+    position: absolute;
+}
+
+.name {
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    padding: 65px 0 0 330px;
+}
+
+.title-contacts {
+    font-size: 20px;
+    padding: 55px 0 10px 0;;
+}
+
+nav {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    padding: 0 0 0 330px;
+}
+
+h2 {
+    text-align: center;
+    padding: 60px 0 20px 40px;
+}
+
+.title-objective {
+    font-size: 20px;
+    padding: 20px 0 10px 20px;
+}
+
+.objective {
+    padding-left: 50px;
+}
+
+.title-skills {
+    font-size: 20px;
+    padding: 40px 0 10px 20px;
+}
+
+.skills {
+    padding-left: 50px;
+}
+
+.title-exampleOfCode {
+    font-size: 20px;
+    padding: 40px 0 10px 10px;
+}
+
+.exampleOfCode {
+    padding-left: 60px;
+}
+
+.title-education {
+    font-size: 20px;
+    padding: 40px 0 10px 20px;
+}
+
+.education {
+    padding-left: 50px;
+}
+
+.title-english {
+    font-size: 20px;
+    padding: 40px 0 10px 20px;
+}
+
+.english {
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+
+.year {
+    text-align: center;
+    padding-bottom: 20px;
+}
