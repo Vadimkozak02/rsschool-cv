@@ -1,16 +1,16 @@
-Vadim Kozak
-   Contacts:  
-  Phone number: +375(29)108-73-01. 
-  E-mail: vadimkozak02@gmail.com
+#### **Vadim Kozak**  
+   **Contacts:**  
+  `Phone number:` +375(29)108-73-01. 
+  `E-mail:` vadimkozak02@gmail.com
 
-   Objective:
- - My main objective is to find a job and of course gain experience from the course. 
+   **Objective:**
+ - My **main** objective is to find a job and of course gain experience from the course. 
    I have no experience in this area, but I have a great desire and motivation to do it every day.
 
-   Skills:
- - JS - I don't know this type of programming language, but I'm taking my first steps in it.
+   **Skills:**
+ - **_JS_** - I don't know this type of programming language, but I'm taking my first steps in it.
 
-  Example of code:
+  **Example of code:**
 ```
  function someFunction() {
 	return 2 + 1;
@@ -18,11 +18,11 @@ Vadim Kozak
 
 someFunction();
 ```
-   Education:
- - Learned HTML and CSS on different [YouTube](https://www.youtube.com/) channels.
- - Also taught the JS course from `Ivan Petrichenko`, on the website [Udemy.com](https://www.udemy.com) and read the theory on [learn.javascript.ru](https://learn.javascript.ru)  
+   **Education:**
+ - Learned **HTML** and **CSS** on different [YouTube](https://www.youtube.com/) channels.
+ - Also taught the **_JS_** course from `Ivan Petrichenko`, on the website [Udemy.com](https://www.udemy.com/course/javascript_full/) and read the theory on [learn.javascript.ru](https://learn.javascript.ru)  
 
-  English.
- - My English level - A2. 
+  **English.**
+ - My English level - **_A2_**. 
  - I studied the language with a tutor before entering the University.
    I have not had any languages practice, but I have always had an interest in the language.
