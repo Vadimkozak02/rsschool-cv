@@ -19,8 +19,8 @@ Vadim Kozak
 someFunction();
 ```
    Education:
- - Learned HTML and CSS on different YouTube channels.
- - Also taught the JS course from `Ivan Petrichenko`, on the website Udemy.com and read the theory on learn.javascript.ru  
+ - Learned HTML and CSS on different [YouTube](https://www.youtube.com/) channels.
+ - Also taught the JS course from `Ivan Petrichenko`, on the website [Udemy.com](https://www.udemy.com) and read the theory on [learn.javascript.ru](https://learn.javascript.ru)  
 
   English.
  - My English level - A2. 
